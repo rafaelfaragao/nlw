@@ -13,7 +13,7 @@ body {
 }
 
 body * {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 160%;
 }
 
@@ -25,7 +25,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg,  #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg,  #fc7272 0%, #e7bb43 50.52%, #E2D45C 100%);
 
     border-radius: 50%;
 
@@ -54,7 +54,7 @@ main {
 
 section {
     color: #FFFFFF;
-    background-image: linear-gradient(90deg,  #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #fc7272 0%, #e7bb43 50.52%, #E2D45C 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
@@ -91,13 +91,13 @@ section ul li:hover {
 }
 
 .games-list img {
-    width: 90px;
+    width: 110px;
     border-radius: 8px;
 }
 
 .channel-list img {
     border-radius: 50%;
-    width: 70px;
+    width: 90px;
     border: 1px solid #443E54;
 }
 
